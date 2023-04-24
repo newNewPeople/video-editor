@@ -9,7 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "vue": "^3.2.47",
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.5",
+    "dayjs": "^1.11.6",
+    "less": "^4.1.2",
+    "less-loader": "^11.1.0"
   },
   "devDependencies": {
     "@types/node": "^18.15.13",
